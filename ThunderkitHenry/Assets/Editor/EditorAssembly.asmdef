@@ -1,7 +1,7 @@
 {
     "name": "EntityStateEditor",
     "references": [
-        "ThunderHenry"
+        "ModdedSurvivorCamel"
     ],
     "optionalUnityReferences": [],
     "includePlatforms": [
